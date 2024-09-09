@@ -99,6 +99,11 @@ nav button {
 
 }
 
+.lang:hover {
+    background-color: red;
+    box-shadow: 0 0 15px red;
+}
+
 .btn-red {
     background-color: red;
     color: white;
@@ -111,6 +116,10 @@ nav button {
 .btn-red-sm {
     background-color: red;
     color: white;
+}
+
+.btn-red-sm:hover {
+    box-shadow: 0 0 15px red;
 }
 
 .hero-buttons {
